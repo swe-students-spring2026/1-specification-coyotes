@@ -12,11 +12,15 @@ Minho Eune ([Github Profile](https://github.com/minhoeune))
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
-Stakeholders: People who want to earn a little extra cash on their free time.
+Primary Target User: Socially active, competitive smartphone users aged 16-30 who enjoy games and challenges. These users frequently use social media, enjoy competition and social recognition.
+
+
 
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
+
+
 
 ## User Requirements
 
