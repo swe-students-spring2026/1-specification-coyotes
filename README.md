@@ -35,7 +35,7 @@ Stakeholder Problems/Frustrations
 
 See instructions. Delete this line and place your Product Vision Statement here.
 
-
+Our app helps people accurately measure and improve their reaction time, while competing with their friends and the world through socially-driven challenges that make it enjoyable and engaging.
 
 ## User Requirements
 
