@@ -12,6 +12,8 @@ Minho Eune ([Github Profile](https://github.com/minhoeune))
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+Stakeholders: People who want to earn a little extra cash on their free time.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
