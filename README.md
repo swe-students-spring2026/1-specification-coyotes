@@ -43,8 +43,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 1. As a competitive user, I want to test my reaction time so that I can see how fast I really am.
 2. As a social user, I want to compare my score with my friends so that I know how good I am relative to my friends.
-3. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.
-4.As a competitive user, I want to challenge my friend so that we can compete directly.
+3. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.  
+4.As a competitive user, I want to challenge my friend so that we can compete directly. 
 5. As a competitive user, I want a leaderboard so that I can see top performers and strive to improve.
 6. As a user, I want fair rankings so that cheating or unfair device advantages (bots) don't ruin competition.
 7. As a social user, I want to share my results on social media so that I can show off my performance.
