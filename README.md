@@ -58,7 +58,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 3. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.
 
-4.As a competitive user, I want to challenge my friend so that we can compete directly.
+4. As a competitive user, I want to challenge my friend so that we can compete directly.
 
 5. As a competitive user, I want a leaderboard so that I can see top performers and strive to improve.
 
