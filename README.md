@@ -57,8 +57,11 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+
         - The user can start a reaction test
+    
         - The test waits a random amount of time before signaling.
+    
         - The user's tap is recorded only after the signal appears.
 
 2. As a social user, I want to compare my score with my friends so that I know how good I am relative to my friends.
@@ -66,9 +69,13 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
          - The app shows a friends leaderboard
+    
          - The user can see their ranking in the list
+    
          - Friends are sorted by reaction time (fastest to slowest)
+    
          - The leaderboard updates when new scores are recorded.
 
 3. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.
@@ -76,9 +83,13 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
         - The global average reaction time is displayed.
+    
         - The user's reaction time is shown alongside the average.
+    
         - A message explains what percentile the user belongs in.
+    
         - Global average is recalculated as more results are recorded.
 
 4. As a competitive user, I want to challenge my friend so that we can compete directly.
@@ -86,7 +97,9 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
         - The user can select a friend to challenge.
+    
         - The friend recieves a notification from the app, or an invitation via message.
 
 5. As a competitive user, I want a leaderboard so that I can see top performers and strive to improve.
@@ -94,9 +107,13 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
         - The leaderboard displays ranked users
+    
         - Users are sorted by fastest reaction time
+    
         - The leaderboard supports global and friends view
+    
         - The leaderboard updates when rankings change
 
 6. As a user, I want fair rankings so that cheating or unfair device advantages (bots) don't ruin competition.
@@ -104,7 +121,9 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: L
 
     Acceptance criteria:
+    
         - The app detects unusually fast times (less than 100ms as unassisted human reaction time is generally accepted to be between 100ms and 120ms)
+    
         - Suspicious results are excluded from leaderboards and total data
 
 7. As a social user, I want to share my results on social media so that I can show off my performance.
@@ -112,7 +131,9 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: S
 
     Acceptance criteria:
+    
         - The user can tap a share button after a test
+    
         - The shared result includes the reaction time score
 
 8. As a casual user, I want to be able to test my reaction speed fast and easily.
@@ -120,9 +141,13 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: S
 
     Acceptance criteria:
+    
         - The app loads fast
+    
         - The instructions and the test itself is short and clear
+    
         - Results are shown immediately
+    
         - Test can be done without signing in, but results won't be recorded as your own
 
 9. As a competitive user, I want to see my performance over time so that I can track my improvement.
@@ -130,9 +155,13 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
         - The app stores past reaction time results
+    
         - A visual history (chart/list) is displayed
+    
         - The user can see average and best scores
+    
         - Older results can be seen
 
 10. As a competitive user, I want to see my global ranking so that competition feels personal.
@@ -140,7 +169,9 @@ See instructions. Delete this line and place a list of your User Stories here.
     Estimation of effort: M
 
     Acceptance criteria:
+    
         - The user's global rank/percentile is displayed clearly
+    
         - The user's rank updates when their best score is updated
 
 ## Activity Diagrams
