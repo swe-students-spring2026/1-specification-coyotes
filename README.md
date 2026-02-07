@@ -10,8 +10,6 @@ Minho Eune ([Github Profile](https://github.com/minhoeune))
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 Primary Target User: Socially active, competitive smartphone users aged 16-30 who enjoy games and challenges. These users frequently use social media, enjoy competition and social recognition.
 
 Stakeholder name: Alex  
@@ -44,13 +42,9 @@ Relevant Traits: Competitive, active on social media, plays console and mobile g
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
-
 Our app helps people accurately measure and improve their reaction time, while competing with their friends and the world through socially-driven challenges that make it enjoyable and engaging.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
 
 1. As a competitive user, I want to test my reaction time so that I can see how fast I really am.
 
