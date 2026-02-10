@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 Minho Eune ([Github Profile](https://github.com/minhoeune))
+
 Yash Pazhianur ([Github Profile](https://github.com/yashpaz123))
 
 ## Stakeholders
@@ -175,4 +176,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-([Prototype](https://www.figma.com/proto/CLjukQ0ZcWb91f3FE6unik/Coyotes---Wireframe?node-id=20-2&p=f&t=fYSgNZsz0LyTtocf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A2&show-proto-sidebar=1))
+[Prototype](https://www.figma.com/proto/CLjukQ0ZcWb91f3FE6unik/Coyotes---Wireframe?node-id=20-2&p=f&t=fYSgNZsz0LyTtocf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A2&show-proto-sidebar=1)
