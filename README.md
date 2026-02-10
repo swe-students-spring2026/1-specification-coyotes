@@ -2,8 +2,6 @@
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 Minho Eune ([Github Profile](https://github.com/minhoeune))
 
 Yash Pazhianur ([Github Profile](https://github.com/yashpaz123))
