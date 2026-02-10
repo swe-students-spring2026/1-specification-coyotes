@@ -1,6 +1,4 @@
-# Specification Phase Exercise
-
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
+# Reaction Time Testing App
 
 ## Team members
 
@@ -172,7 +170,12 @@ Our app helps people accurately measure and improve their reaction time, while c
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### UML Diagram: Reaction Time Test
+![alt text](./images/UML-test.png "UML-Reaction Time Test")
+
+### UML Diagram: Friends Leaderboard
+![alt text](./images/UML-leaderboard.png "UML-Friends Leaderboard")
+
 
 ## Clickable Prototype
 
