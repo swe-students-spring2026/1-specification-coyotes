@@ -32,9 +32,11 @@ Relevant Traits: Competitive, active on social media, plays console and mobile g
 
 4. Would like to improve reaction and clicking speed.
 
-5. Wants recognition for being the "fastest".
+5. Would like analytics on his reaction speed to understand his overall performance over a large sample size of tests. These include avg. time, top times, and general improvement. 
 
-6. Wants fun activity to share on social media/group chats.
+6. Wants recognition for being the "fastest".
+
+7. Wants fun activity to share on social media/group chats.
 
 ### Stakeholder Problems/Frustrations
 
@@ -46,9 +48,11 @@ Relevant Traits: Competitive, active on social media, plays console and mobile g
 
 4. Some tests are inaccurate and its methods can test dexterity instead of reaction speed.
 
+5. Many tests dont save previous data and rovivide no meaningful help for the user to improve their long term reaction time goals. 
+
 ## Product Vision Statement
 
-Our app helps people accurately measure and improve their reaction time, while competing with their friends and the world through socially-driven challenges that make it enjoyable and engaging.
+Our app helps people accurately measure and improve their reaction time, while competing with their friends and the world through socially-driven challenges that make it enjoyable and engaging. It also provides analytics of individual user performance and ranks times across a global leaderboard and time distribution.
 
 ## User Requirements
 
