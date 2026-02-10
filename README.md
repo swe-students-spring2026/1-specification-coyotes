@@ -6,6 +6,8 @@ Minho Eune ([Github Profile](https://github.com/minhoeune))
 
 Yash Pazhianur ([Github Profile](https://github.com/yashpaz123))
 
+Edward Ye ([Github Profile](https://github.com/EdwarddYe))
+
 ## Stakeholders
 
 Primary Target User: Socially active, competitive smartphone users aged 16-30 who enjoy games and challenges. These users frequently use social media, enjoy competition and social recognition.
