@@ -174,4 +174,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+([Prototype](https://www.figma.com/proto/CLjukQ0ZcWb91f3FE6unik/Coyotes---Wireframe?node-id=20-2&p=f&t=fYSgNZsz0LyTtocf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A2&show-proto-sidebar=1))
