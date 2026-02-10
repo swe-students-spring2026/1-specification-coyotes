@@ -8,9 +8,11 @@ Yash Pazhianur ([Github Profile](https://github.com/yashpaz123))
 
 Edward Ye ([Github Profile](https://github.com/EdwarddYe))
 
+Ani Guduru([Github Profile](https://github.com/AniGuduru))
+
 ## Stakeholders
 
-Primary Target User: Socially active, competitive smartphone users aged 16-30 who enjoy games and challenges. These users frequently use social media, enjoy competition and social recognition.
+Primary Target User: Socially active, competitive smartphone users aged 16-30 who enjoy games and challenges. These users frequently use social media, enjoy competition and social recognition. Some users also use this app to cinsistently train and test their reaction time in order to improve in competetive online gaming and other reaction-based sports.
 
 Stakeholder name: Alex  
 
@@ -26,9 +28,13 @@ Relevant Traits: Competitive, active on social media, plays console and mobile g
 
 2. Wants to compare his reaction speed with his friends.
 
-3. Wants recognition for being the "fastest".
+3. Wants a reliable way to accurately test his reaction speed
 
-4. Wants fun activity to share on social media/group chats.
+4. Would like to improve reaction and clicking speed.
+
+5. Wants recognition for being the "fastest".
+
+6. Wants fun activity to share on social media/group chats.
 
 ### Stakeholder Problems/Frustrations
 
@@ -72,7 +78,11 @@ Our app helps people accurately measure and improve their reaction time, while c
     
          - The leaderboard updates when new scores are recorded.
 
-3. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.
+         - The analytics show average time for reaction, ecxluding any major outliers that could be caused by user not paying attention to the screen signal.
+
+   
+
+4. As a new user, I want to see how my reaction time compares to the global average so that my score is meaningful.
 
     Estimation of effort: M
 
@@ -86,7 +96,9 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - Global average is recalculated as more results are recorded.
 
-4. As a competitive user, I want to challenge my friend so that we can compete directly.
+        - Results are shown on a distribution curve with user's time being ranked as a percentile of global average reaction times.
+
+6. As a competitive user, I want to challenge my friend so that we can compete directly.
 
     Estimation of effort: M
 
@@ -96,7 +108,9 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - The friend recieves a notification from the app, or an invitation via message.
 
-5. As a competitive user, I want a leaderboard so that I can see top performers and strive to improve.
+        - The user and a friend can run a series of games and reach a verdict on who is faster on average.
+
+8. As a competitive user, I want a leaderboard so that I can see top performers and strive to improve.
 
     Estimation of effort: M
 
@@ -110,7 +124,7 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - The leaderboard updates when rankings change
 
-6. As a user, I want fair rankings so that cheating or unfair device advantages (bots) don't ruin competition.
+9. As a user, I want fair rankings so that cheating or unfair device advantages (bots) don't ruin competition.
 
     Estimation of effort: L
 
@@ -120,7 +134,9 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - Suspicious results are excluded from leaderboards and total data
 
-7. As a social user, I want to share my results on social media so that I can show off my performance.
+        - Leaderboards truncate times that are outliers and only present valid reaction times determined by acceptance criteria. 
+
+11. As a social user, I want to share my results on social media so that I can show off my performance.
 
     Estimation of effort: S
 
@@ -130,7 +146,7 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - The shared result includes the reaction time score
 
-8. As a casual user, I want to be able to test my reaction speed fast and easily.
+12. As a casual user, I want to be able to test my reaction speed fast and easily.
 
     Estimation of effort: S
 
@@ -144,7 +160,7 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - Test can be done without signing in, but results won't be recorded as your own
 
-9. As a competitive user, I want to see my performance over time so that I can track my improvement.
+13. As a competitive user, I want to see my performance over time so that I can track my improvement.
 
     Estimation of effort: M
 
@@ -158,7 +174,7 @@ Our app helps people accurately measure and improve their reaction time, while c
     
         - Older results can be seen
 
-10. As a competitive user, I want to see my global ranking so that competition feels personal.
+14. As a competitive user, I want to see my global ranking so that competition feels personal.
 
     Estimation of effort: M
 
