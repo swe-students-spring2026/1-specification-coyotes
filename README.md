@@ -36,9 +36,9 @@ Relevant Traits: Competitive, active on social media, plays console and mobile g
 
 2. Scores kind of feel meaningless without direct comparison with someone he knows.
 
-3. Some feel inaccurate, or just wrong.
+3. Many online tests are convoluted and require set-up for what is ultimately a simple test.
 
-4. It gets kind of boring really fast.
+4. Some tests are inaccurate and its methods can test dexterity instead of reaction speed.
 
 ## Product Vision Statement
 
